@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
 title: Martin Kennelly
-logo: "/images/logo.jpeg?raw=true"
+logo: "/images/logo.png?raw=true"
 description: >
   cloud software engineer
   <br><br>
-  with K8 as my control plane
+  with kubernetes as my control plane
   <br><br>
   <a href="https://www.linkedin.com/in/martin-kennelly-1b8847197/">View My LinkedIn Profile</a>
