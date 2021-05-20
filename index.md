@@ -1,1 +1,7 @@
-## Welcome to my GitHub Pages
+## Musings
+
+---
+
+### 2021
+
+[Project test](/test)
