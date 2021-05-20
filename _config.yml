@@ -1,2 +1,9 @@
 theme: jekyll-theme-cayman
-title: Welcome to a cloud software engineers musings
+title: Martin Kennelly
+logo: "/images/logo.png?raw=true" 
+description: > 
+  cloud software engineer 
+  <br><br>
+  with K8 as my control plane 
+  <br><br>
+  <a href="https://www.linkedin.com/in/martin-kennelly-1b8847197/">View My LinkedIn Profile</a>
